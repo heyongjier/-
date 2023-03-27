@@ -1,0 +1,5 @@
+﻿  List.c
+C:\Users\26843\Documents\GitHub\Dating-Structures-and-Algorithm-Analysis\1.线性表\线性表的顺序表示\线性表的顺序表示\List.h(1,1): warning C4828: 文件包含在偏移 0x286 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\26843\Documents\GitHub\Dating-Structures-and-Algorithm-Analysis\1.线性表\线性表的顺序表示\线性表的顺序表示\List.c(10,3): warning C4550: 表达式计算为缺少参数列表的函数
+C:\Users\26843\Documents\GitHub\Dating-Structures-and-Algorithm-Analysis\1.线性表\线性表的顺序表示\线性表的顺序表示\List.c(77,13): warning C4047: “return”:“int”与“void *”的间接级别不同
+  线性表的顺序表示.vcxproj -> C:\Users\26843\Documents\GitHub\Dating-Structures-and-Algorithm-Analysis\1.线性表\线性表的顺序表示\x64\Debug\线性表的顺序表示.exe
